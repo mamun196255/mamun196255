@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Mamun+Rashid;A+Cyber+Security+Enthusiast;Future+Ethical+Hacker;Kali+Linux+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=HI+I+AM+MD+MAMUNUR+RASHID;A+Cyber+Security+Enthusiast;Future+Ethical+Hacker;Kali+Linux+Expert" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ4bmZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZiZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ4bmZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4JmVwPXYxX2ludGVybmFsX2dpZl9iZiZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450">
 </p>
 
 ---
